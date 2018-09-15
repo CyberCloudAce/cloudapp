@@ -1,3 +1,1 @@
 # cloudapp
-
-# First feature added
